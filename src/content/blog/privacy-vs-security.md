@@ -1,6 +1,6 @@
 ---
 author: "محمدصادق شریفی‌نژاد"
-pubDatetime: 2022-09-23T15:22:00Z
+pubDatetime: 2024-05-21T08:48:36Z
 title: "امنیت یا حریم خصوصی: شناخت تفاوت ها و ارتباط میان آن ها"
 slug: privacy-vs-security
 featured: true
