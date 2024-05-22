@@ -8,7 +8,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-FD-Regular.woff2) format('woff2');
+    src: url(../assets/fonts/Vazirmatn-FD-Regular.woff2) format('woff2');
   }
   :root,
   html[data-theme="light"] {
