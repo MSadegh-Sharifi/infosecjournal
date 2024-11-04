@@ -1,6 +1,6 @@
 ---
 author: "محمدصادق شریفی‌نژاد"
-pubDatetime: 2024-11-04T17:48:36Z
+pubDatetime: 2024-11-03T17:48:36Z
 title: "معرفی OSSIM، یک SIEM متن باز و رایگان + آموزش نصب و راه اندازی"
 slug: "ossim-siem"
 featured: true
