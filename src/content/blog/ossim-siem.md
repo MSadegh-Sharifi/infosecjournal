@@ -1,18 +1,19 @@
 ---
-author: محمدصادق شریفی‌نژاد
+author: "محمدصادق شریفی‌نژاد"
 pubDatetime: 2024-11-04T17:48:36Z
-title: معرفی OSSIM، یک SIEM متن باز و رایگان + آموزش نصب و راه اندازی
-slug: ossim-siem
+title: "معرفی OSSIM، یک SIEM متن باز و رایگان + آموزش نصب و راه اندازی"
+slug: "ossim-siem"
 featured: true
 draft: false
 tags:
-  - SIEM
-  - Software
-  - Guide
-  - OSSIM
-  - Monitoring
-description: معرفی OSSIM، یک SIEM متن باز و رایگان + آموزش نصب و راه اندازی
+  - "SIEM"
+  - "Software"
+  - "Guide"
+  - "OSSIM"
+  - "Monitoring"
+description: "معرفی OSSIM، یک SIEM متن باز و رایگان + آموزش نصب و راه اندازی"
 ---
+
 Open Source Security Information Management یا به اختصار OSSIM، یک سیستم مدیریت وقایع و اطلاعات امنیتی یا همان SIEM متن باز بوده که توسط AT&T Cybersecurity (LevelBlue) توسعه داده می شود.
 
 ## فهرست مطالب
@@ -48,4 +49,3 @@ OSSIM در سال 2003 طی یک همکاری مشترک بین Dominique Karg،
 ## نصب، راه اندازی و پیکربندی OSSIM
 
 به دلیل نبود منابع مناسب در رابطه با OSSIM، آموزش کاملی را به صورت طبقه بندی شده نوشته و در زیردامنه ossim همین سایت یعنی ossim.infosecjournal.dev ، در دسترس قرار داده ام. شما می توانید با مراجعه به این آموزش، با نحوه راه اندازی و پیکربندی ossim آشنا شوید.
-
